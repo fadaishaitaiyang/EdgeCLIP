@@ -1,6 +1,7 @@
 ## Unleash the Capabilities of the Vision-language Pre-training Model in Gaze Object Prediction
 This repository is the official implementation of our paper
-
+## Acknowledgement
+Thanks Wang team for the wonderful open source project!https://github.com/CodeMonsterPHD/GaTector-A-Unified-Framework-for-Gaze-Object-Prediction
 ## Data Preparation
 note:
 We use GOO-real to obtain object detection results and GOO-synth to obtain gaze object prediction results
